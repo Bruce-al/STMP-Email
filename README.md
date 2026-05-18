@@ -28,7 +28,7 @@ Java SE
 Java Swing (GUI)
 Socket Programming
 SMTP Protocol
-🗃 Files Included
+Files Included
 SMTPClient.java – Main logic for handling the SMTP protocol
 EmailGUI.java – Swing GUI interface
 AttachmentHandler.java (optional) – For encoding attachments in base64
