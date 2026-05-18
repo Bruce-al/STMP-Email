@@ -49,8 +49,8 @@ For local testing, you can use:
 
 Papercut SMTP – Simulates an SMTP server locally
 SMTP Bucket – Free temporary email inbox via SMTP
-⚠ Restrictions
+Restrictions
  No external mail libraries like javax.mail are allowed.
 All SMTP commands and responses are handled manually via sockets.
-� License
+License
 This project is for educational use only and not intended for production usage.
