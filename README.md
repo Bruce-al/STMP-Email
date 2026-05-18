@@ -1,6 +1,6 @@
 A simple Java-based GUI SMTP mail client that allows users to send email messages by manually implementing the SMTP protocol (without using the javax.mail package).
 
-⚠ Note: This project was built without the use of any external libraries like JavaMail. The SMTP protocol is implemented from scratch.
+Note: This project was built without the use of any external libraries like JavaMail. The SMTP protocol is implemented from scratch.
 
  Features
 Connect to any SMTP server using hostname and port
@@ -12,7 +12,7 @@ Hostname and port configuration
 Status display for success and errors
 Optional bonus:
  Attachment Support – Send files as email attachments
-🖼 Interface Overview
+Interface Overview
 The user interface includes:
 
 Input fields for:
